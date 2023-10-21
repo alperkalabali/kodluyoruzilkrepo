@@ -11,4 +11,4 @@ Kodluyoruz Eğitimi kapsamında açtığım ilk repo
 <h2>Contributing</h2>
 <p>Pull requestler kabul edilir.Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmakiçin bir konu açınız.</p>
 <h2>License</h2>
-[MIT](https://choosealicense.com/licenses/mit)
+<a href='https://choosealicense.com/licenses/mit'>MIT</a>
